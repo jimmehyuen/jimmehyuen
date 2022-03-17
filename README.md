@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Passionate Full-stack Developer based in London
+    A passionate Full-stack Developer based in London
 </h3>
 <br>
 
