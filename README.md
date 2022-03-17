@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning React
 - 🔭 I’m currently working on [a website for bookmarking films to watch later](https://github.com/jimmehyuen/rails-watch-list)
 - 👯 I’m looking to collaborate on interesting projects
-- 📫 How to reach me: [my email](jimmehyuen@gmail.com)
+- 📫 How to reach me: [jimmehyuen@gmail.com](mailto:jimmehyuen@gmail.com)
 
 #### Connect with me:
 
