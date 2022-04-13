@@ -8,7 +8,7 @@
 <br>
 
 - 🌱 I’m currently learning React
-- 🔭 I’m currently working on my portfolio (https://github.com/jimmehyuen/portfolio)
+- 🔭 I’m currently working on my [portfolio](https://github.com/jimmehyuen/portfolio)
 - 👯 I’m looking to collaborate on interesting projects
 - 📫 How to reach me: [jimmehyuen@gmail.com](mailto:jimmehyuen@gmail.com)
 
