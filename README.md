@@ -7,9 +7,9 @@
 </h3>
 <br>
 
+- 🖼 [My Portfolio](https://jimmehyuen.github.io)
 - 🌱 I’m currently learning React
-- 🔭 I’m currently working on my [portfolio](https://github.com/jimmehyuen/portfolio)
-- 👯 I’m looking to collaborate on interesting projects
+- 🔭 I’m currently polishing [Halfway](https://github.com/sachimp/halfway), a web app that finds a half way meeting point between two addresses 
 - 📫 How to reach me: [jimmehyuen@gmail.com](mailto:jimmehyuen@gmail.com)
 
 #### Connect with me:
