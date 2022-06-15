@@ -8,7 +8,7 @@
 <br>
 
 - 🖼 [My Portfolio](https://jimmehyuen.github.io)
-- 🌱 I’m currently working on a new project - a journal web app
+- 🌱 I’m currently doing the Odin Project
 - 🔭 I’m currently polishing [Halfway](https://github.com/sachimp/halfway), a web app that finds a half way meeting point between two addresses 
 - 📫 How to reach me: [jimmehyuen@gmail.com](mailto:jimmehyuen@gmail.com)
 
